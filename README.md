@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**martinslerums/martinslerums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Martins and I am a Front-end developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinslerums/)
+
+
+🚀 Set out on a quest to become proficient in the craft of coding.
+
+
+🖥️ Fueled by a love for computers and motivated by a deep affection for the craft, what captivates me about coding is the ability to transform mere nothingness into something tangible, breathing life into creations and bringing them to existence.
+
+
+🎮 Passionate Gamer
+I also enjoy disc golf and board games. 🥏🎲
+
+
+Some of my recent projects include:
+
+
+📜 [Crafting a Blog App with Next.js and MongoDB](https://github.com/martinslerums/codelex_md18_nextjs_blog_app)
+
+  
+- Full-stack application offering users the ability to explore curated blogs and contribute comments. 
+- Admin panel empowering administrators to create, delete, and update blogs. 
+- Embracing a Rich Text Editor for expressing individual styles.
+
+
+ [Movie-list CRUD App](https://github.com/martinslerums/codelex_md16_react-query_-react-router_react-i18n)
+
+
+- Developed a fully functional CRUD app with extensive features.
+- Mastered React Query for efficient API calls.
+- Implemented React Router functionality for seamless routing.
