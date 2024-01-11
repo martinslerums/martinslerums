@@ -27,9 +27,18 @@ Some of my recent projects include:
 - Embracing a Rich Text Editor for expressing individual styles.
 
 
- [Movie-list CRUD App](https://github.com/martinslerums/codelex_md16_react-query_-react-router_react-i18n)
+ [Movie-list CRUD App with React.js](https://github.com/martinslerums/codelex_md16_react-query_-react-router_react-i18n)
 
 
 - Developed a fully functional CRUD app with extensive features.
 - Mastered React Query for efficient API calls.
 - Implemented React Router functionality for seamless routing.
+
+
+-  [Teams-list CRUD App with Angular](https://github.com/martinslerums/codelex_md19_angular_crud)
+
+
+- Created a comprehensive CRUD application using Angular.
+- Proficiently utilized Angular services for effective API interactions.
+- Implemented Angular Router to seamlessly manage and navigate through different application views.
+
