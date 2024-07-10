@@ -22,23 +22,23 @@ Some of my recent projects include:
 📜 [Crafting a Blog App with Next.js and MongoDB](https://github.com/martinslerums/codelex_md18_nextjs_blog_app)
 
   
-- Full-stack application offering users the ability to explore curated blogs and contribute comments. 
+- Full-stack application allows users to explore created blogs and contribute comments. 
 - Admin panel empowering administrators to create, delete, and update blogs. 
 - Embracing a Rich Text Editor for expressing individual styles.
 
 
-📜 [Movie-list CRUD App with React.js](https://github.com/martinslerums/codelex_md16_react-query_-react-router_react-i18n)
+📜 [React Weather-application]([https://github.com/martinslerums/codelex_md16_react-query_-react-router_react-i18n](https://github.com/martinslerums/react-weather-app))
 
 
-- Developed a fully functional CRUD app with extensive features.
-- Mastered React Query for efficient API calls.
-- Implemented React Router functionality for seamless routing.
+- Dynamic Functionality: Built a fully functional weather application using React and Tremor 2.0 components, integrating data from OpenWeatherMap API.
+- Seamless Navigation: Implemented React Router for smooth and intuitive routing between different views.
+- Modern UI: Styled with TailwindCSS for a responsive and visually appealing design
 
 
-📜 [Teams-list CRUD App with Angular](https://github.com/martinslerums/codelex_md19_angular_crud)
+📜 [Netflx clone](https://github.com/martinslerums/netflix-clone)
 
 
-- Created a comprehensive CRUD application using Angular.
-- Proficiently utilized Angular services for effective API interactions.
-- Implemented Angular Router to seamlessly manage and navigate through different application views.
+- Full-Featured Application: Built a Netflix clone with Next.js and React, focusing on dynamic components and user experience.
+- Backend and Security: Implemented PrismaDB with MongoDB for database management and secured user authentication with NextAuth.
+- Modern UI and State Management: Styled with TailwindCSS for a responsive design and managed state with Zustand.
 
