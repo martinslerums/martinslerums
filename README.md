@@ -27,7 +27,7 @@ Some of my recent projects include:
 - Embracing a Rich Text Editor for expressing individual styles.
 
 
-📜 [React Weather-application]([https://github.com/martinslerums/react-weather-app])
+📜 [React Weather-application](https://github.com/martinslerums/react-weather-app)
 
 
 - Dynamic Functionality: Built a fully functional weather application using React and Tremor 2.0 components, integrating data from OpenWeatherMap API.
