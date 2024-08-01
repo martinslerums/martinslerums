@@ -29,7 +29,7 @@ Some of my recent projects include:
 
 📜 [React Weather-application](https://github.com/martinslerums/react-weather-app)
 
-  https://react-weather-app-iota-three.vercel.app/location/Paris/48.85340000/2.34860000
+  [Demo](https://react-weather-app-iota-three.vercel.app/)
 
 - Dynamic Functionality: Built a fully functional weather application using React and Tremor 2.0 components, integrating data from OpenWeatherMap API.
 - Seamless Navigation: Implemented React Router for smooth and intuitive routing between different views.
