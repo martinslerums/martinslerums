@@ -15,21 +15,21 @@ My name is Martins and I am a Front-end developer.
 🎮 Passionate Gamer
 I also enjoy disc golf and board games. 🥏🎲
 
+Technologies I Work With:
+Front-end: TypeScript 📝, React 🧩, Vue 🌟, Next.js 📈, Nuxt.js 🚀
+Back-end: Node.js 🚀, Express.js 🛠️, Ruby on Rails 🛤️, Django 🐍
+Databases: MongoDB 🌿, PrismaDB 🔗, SQLite 📦
 
 Some of my recent projects include:
-
-
 📜 [Crafting a Blog App with Next.js and MongoDB](https://github.com/martinslerums/codelex_md18_nextjs_blog_app)
 
   
 - Full-stack application allows users to explore created blogs and contribute comments. 
-- Admin panel empowering administrators to create, delete, and update blogs. 
+- The admin panel empowers administrators to create, delete, and update blogs. 
 - Embracing a Rich Text Editor for expressing individual styles.
 
 
-📜 [React Weather-application](https://github.com/martinslerums/react-weather-app)
-
-  [Demo](https://react-weather-app-iota-three.vercel.app/)
+📜 [React Weather-application](https://github.com/martinslerums/react-weather-app)[Demo](https://react-weather-app-iota-three.vercel.app/)
 
 - Dynamic Functionality: Built a fully functional weather application using React and Tremor 2.0 components, integrating data from OpenWeatherMap API.
 - Seamless Navigation: Implemented React Router for smooth and intuitive routing between different views.
