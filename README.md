@@ -15,13 +15,13 @@ My name is Martins and I am a Front-end developer.
 🎮 Passionate Gamer
 I also enjoy disc golf and board games. 🥏🎲
 
-Technologies I Work With:
 
 Front-end: TypeScript 📝, React 🧩, Vue 🌟, Next.js 📈, Nuxt.js 🚀
 
 Back-end: Node.js 🚀, Express.js 🛠️, Ruby on Rails 🛤️, Django 🐍
 
 Databases: MongoDB 🌿, PrismaDB 🔗, SQLite 📦
+
 
 Some of my recent projects include:
 📜 [Crafting a Blog App with Next.js and MongoDB](https://github.com/martinslerums/codelex_md18_nextjs_blog_app)
